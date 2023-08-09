@@ -1,0 +1,8 @@
+For opening vs from the folder we can do by right click and then comes the option to open Vs code.
+IF that option does not come we can do is we can right click and open cmd and then write code .[dot]=>This will open up vs code with the same 
+folder.
+
+Node is created using  Chrome V8 engine which Google Chrome uses it for running Js.
+
+To run a Js file we need to be in the specific Js file location in the terminal.
+Next for running the Js file in node we need to write node file_name.js inside of terminal.

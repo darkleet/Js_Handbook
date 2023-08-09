@@ -1,0 +1,33 @@
+#Variables in JS:
+Variables are containers for storing data (storing data values).
+Variables means anything that can vary.
+In Js Variable stores the value that can be changed later on.
+
+Declaring a variable:
+There is a reserved keyword in Js which is used to declare variable in Js and i.e. var keyword.
+
+Dynamically vs Statically Typed Language:
+Statically typed language:Each variable and expression are already known at compile time
+and also type checking is done at compile time.
+
+Statically typed language:Variable can receive value at run time
+and also type checking is done at run time.
+
+#Arrays in Js:
+Arrays can store multiple data items.
+It enables storing multiple values under same variable name and we can also perform operations 
+on them by using different methods and properties also every value gets a sequential index starting
+from 0.
+
+In javascript arrays can store values of different data types whereas in statically typed languages,
+array can only store data in which it(array) is defined.
+
+
+#Objects in Js#
+Everything in Js is an Object.
+In Js,an object is an unordered collection(i.e. does not have index value) of key-value pairs.
+Each key value pair is called as property.
+
+The key of a property can be a string.And the value of property can be anything i.e. string,integer,array,and even an function.
+
+Js provides us with many ways to create an object.The most commonly used is object literal notation.
